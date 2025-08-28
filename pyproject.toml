@@ -1,0 +1,17 @@
+[project]
+name = "live-crypto-viewer"
+version = "1.0.0"
+description = "live-crypto-viewer"
+authors = [
+    {name = "vladyslav-yarko",email = "vladislavv44444@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
